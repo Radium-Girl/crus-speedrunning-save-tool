@@ -1,7 +1,7 @@
 # crus-speedrunning-save-tool
 A super simple tkinter gui that's only purpose is to make handing Cruelty Squad save files that bit less laborious between speedruns.
 
-"DELETE SAVE" does exactly what's on the cover, it'll delete specifially your savegame.save and stocks.save, leaving everything else like your settings alone. (This will not warn you, your savegame/stocks.save files will be immediately deleted)
+"DELETE SAVE" does exactly what's on the cover, it'll delete specifically your savegame.save and stocks.save, leaving everything else like your settings alone. (This will not warn you, your savegame/stocks.save files will be immediately deleted)
 
 "CREATE PRACTICE SAVE" will create a new savegame.save file with everything unlocked - that includes all weapons, levels, and augments. (This will warn you via popup menu if you wish to overrite your save data)
 

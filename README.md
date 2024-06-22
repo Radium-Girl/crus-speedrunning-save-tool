@@ -10,3 +10,6 @@ Before you use this tool be sure that you're okay with potentially losing your s
 This tool does not interact with the game it's self in any way, just the files inside the Cruelty Squad save directory.
 
 In this repository you will find the .pyw file it's self and an executable for people who don't have python and the required libraries installed to run the python file - most people can just use the .exe in the "dist" folder.
+
+
+![CRUS-SPEEDRUNNING-SAVE-TOOL_dG4pmMI4JY](https://github.com/Radium-Girl/crus-speedrunning-save-tool/assets/173576581/8b5943c6-62a6-43d4-955d-7de7eb6a1519)
